@@ -149,7 +149,7 @@ A higher VIF indicates that a feature may have a strong relationship with other 
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone <[your-repository-url](https://github.com/vigneshselvanV/Linear_Regression-House-prediction-)>
 ```
 
 ### 2. Install the required libraries
